@@ -1,3 +1,0 @@
-vless://a6f0041e-338c-456d-95f8-27c36015816f@185.113.10.152:14566?type=tcp&security=none#Ali%20moghqdam-7ieqhay1 
-
-vless://a6f0041e-338c-456d-95f8-27c36015816f@miss.tesoter.shop:14566?type=tcp&security=none#Ali%20moghqdam-7ieqhay1
